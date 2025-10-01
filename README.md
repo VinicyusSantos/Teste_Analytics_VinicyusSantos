@@ -6,17 +6,14 @@ Este repositório contém a solução para o **Teste de Estagiário em Analytics
 
 ## Estrutura do Repositório
 Teste_Analytics_VinicyusSantos/
-├─ data/
-│ └─ data_clean.csv # Dataset limpo e pronto para análise
-│
-├─ notebooks/
-│ ├─ Analise_Exploratoria_de_Dados_de_Vendas.ipynb # Notebook com EDA (exploração e gráficos)
-│ └─ Limpeza_e_Analise_de_Dados_de_Vendas.ipynb # Notebook com simulação e limpeza
-│
-├─ consultas_sql.sql # Consultas SQL solicitadas no teste
-├─ relatorio_insights.md # Relatório em texto (≤300 palavras)
-└─ README.md # Este arquivo
-
+- **data/**
+  - `data_clean.csv` → Dataset limpo e pronto para análise
+- **notebooks/**
+  - `Analise_Exploratoria_de_Dados_de_Vendas.ipynb` → Notebook com EDA (exploração e gráficos)
+  - `Limpeza_e_Analise_de_Dados_de_Vendas.ipynb` → Notebook com simulação e limpeza
+- **consultas_sql.sql** Consultas SQL solicitadas no teste
+- **relatorio_insights.md** Relatório em texto (≤300 palavras)
+- **README.md** Este arquivo
 ---
 
 ## Como Executar
