@@ -12,7 +12,7 @@ Teste_Analytics_VinicyusSantos/
   - `Analise_Exploratoria_de_Dados_de_Vendas.ipynb` → Notebook com EDA (exploração e gráficos)
   - `Limpeza_e_Analise_de_Dados_de_Vendas.ipynb` → Notebook com simulação e limpeza
 - **consultas_sql.sql** Consultas SQL solicitadas no teste
-- **relatorio_insights.md** Relatório em texto (≤300 palavras)
+- **relatorio_insights.md** Relatório em texto
 - **README.md** Este arquivo
 ---
 
